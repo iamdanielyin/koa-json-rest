@@ -1,0 +1,24 @@
+{
+  "name": "koa-json-rest",
+  "version": "1.0.0-alpha.1",
+  "description": "Koa RESTful API middleware.",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "koa",
+    "middleware",
+    "restful",
+    "rest",
+    "api",
+    "json",
+    "metadata",
+    "adapter"
+  ],
+  "author": "yinfxs",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ibird-utils": "0.9.15"
+  }
+}
