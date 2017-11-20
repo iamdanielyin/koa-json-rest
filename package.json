@@ -3,6 +3,10 @@
   "version": "1.0.0-alpha.1",
   "description": "Koa RESTful API middleware.",
   "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinfxs/koa-json-rest.git"
+  },
   "scripts": {
     "start": "node index.js"
   },
@@ -18,6 +22,10 @@
   ],
   "author": "yinfxs",
   "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/yinfxs/koa-json-rest/issues"
+  },
+  "homepage": "https://github.com/yinfxs/koa-json-rest#readme",
   "dependencies": {
     "ibird-utils": "0.9.15"
   }
