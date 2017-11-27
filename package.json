@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/yinfxs/koa-json-rest#readme",
   "dependencies": {
-    "ibird-utils": "0.9.15"
+    "ibird-utils": "^0.9.16"
   }
 }
