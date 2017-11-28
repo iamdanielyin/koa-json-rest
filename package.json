@@ -1,6 +1,6 @@
 {
   "name": "koa-json-rest",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "description": "Koa RESTful API middleware.",
   "main": "lib/index.js",
   "repository": {
