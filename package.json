@@ -1,6 +1,6 @@
 {
   "name": "koa-json-rest",
-  "version": "1.0.0-alpha.6",
+  "version": "1.0.0-alpha.7",
   "description": "Koa RESTful API middleware.",
   "main": "lib/index.js",
   "repository": {
@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/yinfxs/koa-json-rest#readme",
   "dependencies": {
-    "ibird-utils": "^0.9.16"
+    "ibird-utils": "0.9.19"
   }
 }
