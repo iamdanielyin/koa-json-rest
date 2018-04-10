@@ -1,3 +1,3 @@
 # koa-json-rest
 
-Koa RESTful API middleware.
+Koa REST API middleware. 
